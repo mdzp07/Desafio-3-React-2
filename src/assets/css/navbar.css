@@ -1,0 +1,13 @@
+.active {
+    color: yellow;
+    text-decoration: none;
+    font-size: 14pt;
+    pointer-events:none;
+
+}
+
+.notActive {
+    color: white;
+    text-decoration: none;
+}
+
